@@ -1,0 +1,10 @@
+{
+  "name": "vorpal-promise-rejection-issue",
+  "version": "0.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "vorpal": "^1.12.0"
+  }
+}
